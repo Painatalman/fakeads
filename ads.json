@@ -11,7 +11,7 @@
 {
  "short_name": "Ad-dud",
  "name": "Addud Enterprises",
- "description": "Design group for ad creation and promotion and placeholder content"
+ "description": "Design group for ad creation, promotion and placeholder content"
 },
 {
  "short_name": "Lucky Lucas",
@@ -20,4 +20,9 @@
 },
 {
  "short_name": "Mercedes-Benze"
+},
+{
+ "short_name": "Cache d'uvas",
+ "name": "Cache d'uvas Systems",
+ "slogan": "Tecnologia em nome da Natureza"
 }
